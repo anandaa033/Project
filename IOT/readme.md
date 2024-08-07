@@ -1,4 +1,4 @@
-# เครื่องเขย่าสารเคมีแสดงผลและควบคุมอุณหภูมิ
+# Orbital and Linear Shaker
 - Controlled the device with an Arduino ESP32.
 - Utilized: C, Java and MongoDB Database.
 - Stored data on MongoDB.
