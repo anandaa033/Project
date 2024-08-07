@@ -1,0 +1,74 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+body {
+    font-family: 'Rubik', sans-serif;
+    background-color: rgb(255, 255, 255);
+/* font-family: 'Itim', cursive; */
+/* font-family: 'Lobster', cursive; */
+/* font-family: 'Patrick Hand', cursive; */
+
+}
+h1{
+    font-size: 42px;
+    font-family: 'Rubik', sans-serif;
+    font-size: xx-large;
+}
+h3{
+    font-family: 'Rubik', sans-serif;
+}
+.img{
+    width: 100%;
+    height: 450px;
+    background: url("images/1674400677588.jpg") no-repeat center center fixed !important;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    overflow:auto;
+}
+.ab{
+    color: #AB090D;
+    font-weight: bold;
+
+}
+.about{
+    margin: 0%;
+}
+p{
+    font-size: 25px;
+}
+h2{
+    font-size: 42px;
+}
+.skill{
+    padding-bottom:25px;
+    background-color: #7B7B7B;
+}
+.sk1,.sk2,.sk3,.sk4,.sk5,.sk6{
+    margin: 20px;
+    background-color: white;
+    color: #2B3467;
+}
+.skill{
+    color: white;
+}
+.sk2,.sk1,.sk3,.sk4,.sk5,.sk6{
+    display: flex;
+    align-items: center;
+}
+.box1{
+    background-color: white;
+}
+.web{
+    padding-top: 15px;
+}
+h3{
+    font-size: 35px;
+}
+.ct{
+    padding-top: 30px;
+    padding-left: 30px;
+    height: 160px;
+    background-color: #2B3467;
+    color: white;
+}
