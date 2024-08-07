@@ -3,8 +3,7 @@
   - Utilized: HTML, CSS, PHP, JavaScript and MySQL Database.
   - Use a web server to display the web application.
   - Display the store locations with Google Maps API.
-\
- https://github.com/anandaa033/BarHopper.git
+\ https://github.com/anandaa033/BarHopper.git
 
 # React Native
 https://drive.google.com/file/d/11YN4n61VJsHnXiiP2wTOsOptVX0v-AY-/view?usp=sharing
