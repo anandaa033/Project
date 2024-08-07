@@ -4,6 +4,6 @@ Bar Hopper (Senior Project)
   -Utilized: HTML, CSS, PHP, JavaScript and MySQL Database.
   -Use a web server to display the web application.
   -Display the store locations with Google Maps API.
- https://www.youtube.com/watch?v=dIaNwsvmUq8&t=10s](https://github.com/anandaa033/BarHopper.git
+https://github.com/anandaa033/BarHopper.git
 
   
