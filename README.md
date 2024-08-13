@@ -10,6 +10,9 @@
 * An application developed using Android Studio, utilizing Java for programming and SQLite for database management. With [AndroidStudio](https://github.com/anandaa033/Project/tree/main/AndroidStudio)
 
 ### IOT
-* https://github.com/anandaa033/Project/tree/main/IOT
+* Controlled the device with an Arduino ESP32. With [IOT](https://github.com/anandaa033/Project/tree/main/IOT)
+* developed using languages like C++.
+* Stored data on MongoDB.
+
 ### UX/UI
-* https://github.com/anandaa033/Project/tree/main/UX-UI
+* Designing User Interface (UI) and User Experience (UX) for websites using the Figma tool. With [UX/UI]((https://github.com/anandaa033/Project/tree/main/UX-UI))
