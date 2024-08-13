@@ -8,6 +8,8 @@
   
 ### **AndroidStudio**
 * An application developed using **Android Studio**, utilizing **Java** for programming and **SQLite** for database management. With [AndroidStudio](https://github.com/anandaa033/Project/tree/main/AndroidStudio).
+* developed using languages like **Java**.
+* Stored data on **SQLite**.
 
 ### **IOT**
 * Controlled the device with an Arduino **ESP32**. With [IOT](https://github.com/anandaa033/Project/tree/main/IOT).
