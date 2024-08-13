@@ -7,8 +7,8 @@
 * Database management systems like MySQL and Firebase.
   
 ### AndroidStudio
-* https://github.com/anandaa033/Project/tree/main/AndroidStudio
-* 
+* An application developed using Android Studio, utilizing Java for programming and SQLite for database management. With [AndroidStudio](https://github.com/anandaa033/Project/tree/main/AndroidStudio)
+
 ### IOT
 * https://github.com/anandaa033/Project/tree/main/IOT
 ### UX/UI
