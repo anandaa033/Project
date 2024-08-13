@@ -15,4 +15,4 @@
 * Stored data on MongoDB.
 
 ### UX/UI
-* Designing User Interface (UI) and User Experience (UX) for websites using the Figma tool. With [UX/UI]((https://github.com/anandaa033/Project/tree/main/UX-UI))
+* Designing User Interface (UI) and User Experience (UX) for websites using the Figma tool. With [UX/UI](https://github.com/anandaa033/Project/tree/main/UX-UI)
